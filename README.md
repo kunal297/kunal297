@@ -10,10 +10,10 @@
 
 &nbsp;
 - Hi, I'm Kunal, a Software Developer 🚀 from India. 
-- Beside's developing stuff, I practice cyber security and do bug bounty hunting in free times.
+- Beside's developing stuff, I practice system designs in free times.
 
 - 🔭 I’m currently doing Interview Preparation for SWE or SDE roles.
-- 🌱 I’m currently working on projects based on Full Stack Developement.
+- 🌱 I’m currently working on projects based on Android Development and Full Stack Developement.
 
 - 📫 How to reach me: 
 - You can mail me => kc297.0201@gmail.com 
@@ -21,7 +21,6 @@
 &nbsp;
 
 **Languages and Tools:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
